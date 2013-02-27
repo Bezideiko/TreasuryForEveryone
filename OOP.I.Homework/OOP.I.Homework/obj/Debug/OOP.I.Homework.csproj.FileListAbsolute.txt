@@ -1,0 +1,5 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\OOP.I.Homework\bin\Debug\OOP.I.Homework.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\OOP.I.Homework\bin\Debug\OOP.I.Homework.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\OOP.I.Homework\obj\Debug\OOP.I.Homework.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\OOP.I.Homework\obj\Debug\OOP.I.Homework.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\OOP.I.Homework\obj\Debug\OOP.I.Homework.pdb

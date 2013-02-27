@@ -1,0 +1,8 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\GSMTest\bin\Debug\GSMTest.exe.config
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\GSMTest\bin\Debug\GSMTest.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\GSMTest\bin\Debug\GSMTest.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\GSMTest\bin\Debug\OOP.I.Homework.dll
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\GSMTest\bin\Debug\OOP.I.Homework.pdb
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\GSMTest\obj\Debug\GSMTest.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\GSMTest\obj\Debug\GSMTest.exe
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\C#ForDummie\VIII.Homework\OOP.I.Homework\GSMTest\obj\Debug\GSMTest.pdb
